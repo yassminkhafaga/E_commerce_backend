@@ -3,6 +3,7 @@ A complete E-Commerce Backend REST API built using Node.js, Express, and MongoDB
 The API handles authentication, users, products, categories, subcategories, cart, orders, and reviews with role-based authorization.
 
 🛠 Tech Stack
+
 Node.js
 Express.js
 MongoDB
@@ -12,6 +13,7 @@ Multer (Image Upload)
 Role-Based Authorization (Admin / User)
 
 ✨ Features
+
 Authentication & Authorization (JWT)
 Admin & User roles
 Product management with image upload
@@ -22,6 +24,7 @@ Reviews system
 Secure protected routes
 
 🔐 Authentication
+
 Protected routes require a JWT token in headers:
 Authorization: Bearer <token>
 
